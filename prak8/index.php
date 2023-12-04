@@ -1,4 +1,8 @@
 <?php
+// Abdi Maskur Mutaqin
+// 121140034
+// Pemweb RC
+
 include 'database.php';
 
 $sql = "SELECT id, name, email FROM users";
