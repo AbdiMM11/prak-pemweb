@@ -1,4 +1,8 @@
 <?php
+// Abdi Maskur Mutaqin
+// 121140034
+// Pemweb RC
+
 $servername = "localhost";
 $username = "root";
 $password = "";
